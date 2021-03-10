@@ -1,0 +1,75 @@
+HR:
+	https://habr.com/ru/company/rebrainme/blog/527782/
+
+сети:
+	https://youtu.be/AL4Ylbnw6hY
+	https://www.youtube.com/watch?v=Z-a7MNStFQs - выучить
+	https://www.youtube.com/watch?v=mufJDhkmgDw - выучить
+	https://www.youtube.com/watch?v=rLUzYeLdM0k
+	https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1
+	https://www.youtube.com/channel/UCSTYGpIpMIiQPspjLplB6Ow
+	
+	https://www.youtube.com/playlist?list=PLbom8khzZ-L4LTWwMCJD7Ck6b4jz2iZlV
+	
+	https://habr.com/ru/post/320428/
+
+AD+DNS:
+	https://youtu.be/hAyM1RCiCHM
+	https://youtu.be/yuLULsq6LcI
+	https://youtu.be/uF88WlTKy6c - 3 часа
+
+DHCP
+	https://www.youtube.com/watch?v=uZJ8WVdw-Ck
+	https://www.youtube.com/watch?v=oLDtW2b_uxU
+
+Group Policy:
+	https://m.youtube.com/watch?v=yuLULsq6LcI
+	https://m.youtube.com/watch?v=R6QbZnaCEbA
+	
+Vagrant
+	https://code.tutsplus.com/ru/tutorials/introduction-to-vagrant--cms-25917
+	https://riptutorial.com/ru/vagrant
+	https://habr.com/ru/sandbox/24079/
+	https://www.vagrantup.com/docs
+	https://xakep.ru/2013/10/19/vagrant/
+	https://khashtamov.com/ru/vagrant-how-to-setup/
+	https://webhamster.ru/mytetrashare/index/mtb0/14439493678c4al3psvf
+	
+IIS
+	https://channel9.msdn.com/Blogs/TechDays-Russia/-WordPress-IIS-20101227110500
+	https://www.youtube.com/watch?v=8ozPcRpr8Tw
+	https://channel9.msdn.com/Blogs/TechDays-Russia/-PHP-Windows-WordPress-IIS-Web-Platform-Installer-20101227111800
+	https://www.youtube.com/watch?v=DWhOfKrzP-g
+	
+VLAN 
+	https://habr.com/ru/post/319080/
+	https://www.technotrade.com.ua/Articles/what_is_vlan.php#:~:text=VLAN%20(Virtual%20Local%20Area%20Network,%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9
+	
+DevOps
+	https://m.habr.com/ru/company/dataart/blog/261087/
+	https://channel9.msdn.com/Shows/Community-meetups-russia/DevOps-stack-Microsoft
+	
+MSSQL - БД
+	https://proglib.io/p/11-tipov-sovremennyh-baz-dannyh-kratkie-opisaniya-shemy-i-primery-bd-2020-01-07
+	https://www.youtube.com/watch?v=NWI7hIVN8mw&list=PL47zejIkBQvTJqvh9ZtNn01zwJ2lGXk-E
+	https://vk.com/videos-54530371?section=album_56085800
+	https://vk.com/videos-54530371?section=album_56085487
+	https://vk.com/wall-54530371_97227
+	https://proglib.io/p/sql-for-20-minutes
+	
+[Python]
+	https://pythontutor.ru/
+	http://libgen.is/
+
+[Monitoring]
+	https://serveradmin.ru/sravnenie-zabbix-vs-prometheus/
+	https://www.dmosk.ru/instruktions.php?object=prometheus-linux
+	https://laurvas.ru/prometheus-p1/
+	https://prometheus.io/docs/prometheus/latest/getting_started/
+	https://habr.com/ru/post/78094/
+	
+[Labs]	
+	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
+	
+	
+	
