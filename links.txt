@@ -66,6 +66,8 @@
 [Python]
 	https://pythontutor.ru/
 	http://libgen.is/
+	
+	https://pyneng.readthedocs.io/ru/latest/
 
 [Monitoring]
 	https://serveradmin.ru/sravnenie-zabbix-vs-prometheus/
