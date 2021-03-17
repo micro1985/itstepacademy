@@ -94,4 +94,10 @@
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	
 	
+[Tests]
+	https://www.learnqa.ru/gittest
+	https://testserver.pro/run/test/administrirovaniye_Linux/
+	https://mnorin.com/test-na-znanie-linux-uroven-1.html
+	https://www.learnqa.ru/bash_test
+	https://proglib.io/p/become-sysadmin
 	
