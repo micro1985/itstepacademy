@@ -102,6 +102,11 @@
 	https://proglib.io/p/become-sysadmin
 	
 	
-	VF7RDRFJC54046271
-	VF7RDRFJC54046271
+[MongoDB Redis]
+	https://habr.com/ru/company/oleg-bunin/blog/316652/
+	https://www.youtube.com/watch?v=LNvmI8a9jwY
+	https://www.youtube.com/watch?v=xwr3azx0Gf0&list=PL0lO_mIqDDFXcxN3fRjc-EOWZLqW8dLVV
+	https://www.youtube.com/watch?v=AimUYjKs3pQ
+	
+
 	
