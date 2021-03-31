@@ -93,7 +93,6 @@
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	
-	
 [Tests]
 	https://www.learnqa.ru/gittest
 	https://testserver.pro/run/test/administrirovaniye_Linux/
@@ -101,12 +100,16 @@
 	https://www.learnqa.ru/bash_test
 	https://proglib.io/p/become-sysadmin
 	
-	
 [MongoDB Redis]
 	https://habr.com/ru/company/oleg-bunin/blog/316652/
 	https://www.youtube.com/watch?v=LNvmI8a9jwY
 	https://www.youtube.com/watch?v=xwr3azx0Gf0&list=PL0lO_mIqDDFXcxN3fRjc-EOWZLqW8dLVV
 	https://www.youtube.com/watch?v=AimUYjKs3pQ
 	
-
+[Ansible]
+	https://habr.com/ru/post/536256/
+	https://www.youtube.com/watch?v=Ck1SGolr6GI&list=PLg5SS_4L6LYufspdPupdynbMQTBnZd31N
+	
+	
+	
 	
