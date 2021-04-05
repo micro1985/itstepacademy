@@ -121,3 +121,6 @@
 	
 	https://ru.hexlet.io/courses/free
 	
+[Clouds]
+	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
+	
