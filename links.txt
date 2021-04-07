@@ -89,10 +89,7 @@
 	https://laurvas.ru/prometheus-p1/
 	https://prometheus.io/docs/prometheus/latest/getting_started/
 	https://habr.com/ru/post/78094/
-	
-[Labs]	
-	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
-	
+		
 [MongoDB Redis]
 	https://habr.com/ru/company/oleg-bunin/blog/316652/
 	https://www.youtube.com/watch?v=LNvmI8a9jwY
@@ -111,7 +108,10 @@
 	
 	https://rotoro-cloud.github.io/
 	
-
+[Labs]	
+	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
+	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
+	
 [Tests]
 	https://www.learnqa.ru/gittest
 	https://testserver.pro/run/test/administrirovaniye_Linux/
@@ -120,6 +120,8 @@
 	https://proglib.io/p/become-sysadmin
 	
 	https://ru.hexlet.io/courses/free
+	
+	https://www.specialist.ru/test/891
 	
 [Clouds]
 	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
