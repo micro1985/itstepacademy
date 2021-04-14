@@ -115,13 +115,14 @@
 [Tests]
 	https://www.learnqa.ru/gittest
 	https://testserver.pro/run/test/administrirovaniye_Linux/
-	https://mnorin.com/test-na-znanie-linux-uroven-1.html
 	https://www.learnqa.ru/bash_test
 	https://proglib.io/p/become-sysadmin
 	
 	https://ru.hexlet.io/courses/free
 	
 	https://www.specialist.ru/test/891
+	
+	https://mnorin.com/test-na-znanie-linux-uroven-1.html   -   LPIC
 	
 [Clouds]
 	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
