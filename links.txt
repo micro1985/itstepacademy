@@ -108,6 +108,14 @@
 	
 	https://rotoro-cloud.github.io/
 	
+[Jenkins]
+	https://infostart.ru/1c/articles/1210995/
+	https://www.youtube.com/channel/UCemtVTjKhD_GcEOQ_rNOrRw
+	https://www.youtube.com/watch?v=AvjV7FqjSt8&list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&index=4
+	https://www.youtube.com/watch?v=0D_wKERZ2zo&list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm&index=6
+	https://coderlessons.com/articles/veb-razrabotka-articles/nastroika-nepreryvnoi-integratsii-i-nepreryvnogo-razvertyvaniia-s-jenkins
+	https://www.8host.com/blog/nastrojka-nepreryvnoj-integracii-v-jenkins-v-ubuntu-16-04/
+	
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
@@ -117,15 +125,11 @@
 	https://testserver.pro/run/test/administrirovaniye_Linux/
 	https://www.learnqa.ru/bash_test
 	https://proglib.io/p/become-sysadmin
-	
 	https://ru.hexlet.io/courses/free
-	
 	https://www.specialist.ru/test/891
-	
 	https://mnorin.com/test-na-znanie-linux-uroven-1.html   -   LPIC
 	
 [Clouds]
 	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
-	
 	
 	https://docs.google.com/forms/d/e/1FAIpQLSf0pHtOyOqWLzYz9rM4zFoNK7HOmDhiOHIn93UxtIX6J6Gmmg/viewform
