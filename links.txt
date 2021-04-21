@@ -116,6 +116,13 @@
 	https://coderlessons.com/articles/veb-razrabotka-articles/nastroika-nepreryvnoi-integratsii-i-nepreryvnogo-razvertyvaniia-s-jenkins
 	https://www.8host.com/blog/nastrojka-nepreryvnoj-integracii-v-jenkins-v-ubuntu-16-04/
 	
+[GitLab]	
+	https://docs.gitlab.com/ee/university/#1-gitlab-beginner
+	https://about.gitlab.com/training/
+	https://coderlessons.com/tutorials/devops/vyuchit-gitlab/gitlab-tutorial - лекции на русском
+	https://habr.com/ru/company/flant/blog/332712/
+	https://www.youtube.com/channel/UC5Tk3lXgQ2iywKEM_EyIv3g/videos
+	
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
@@ -134,5 +141,4 @@
 	
 	https://docs.google.com/forms/d/e/1FAIpQLSf0pHtOyOqWLzYz9rM4zFoNK7HOmDhiOHIn93UxtIX6J6Gmmg/viewform
 	
-	
-	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
+
