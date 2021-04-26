@@ -122,10 +122,14 @@
 	https://coderlessons.com/tutorials/devops/vyuchit-gitlab/gitlab-tutorial - лекции на русском
 	https://habr.com/ru/company/flant/blog/332712/
 	https://www.youtube.com/channel/UC5Tk3lXgQ2iywKEM_EyIv3g/videos
+	https://sgit.rsreu.ru/g643_volkov.k/kpo
+	https://kaek.readthedocs.io/ru/latest/project/gitlab_install/
 	
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
+	
+	https://www.coursera.org/promo/coursera-birthday-2021?ranMID=40328&ranEAID=vbJlOdbtkok&ranSiteID=vbJlOdbtkok-4HmQvIKEcfqy62Fm6kOhWA&siteID=vbJlOdbtkok-4HmQvIKEcfqy62Fm6kOhWA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vbJlOdbtkok
 	
 [Tests]
 	https://www.learnqa.ru/gittest
