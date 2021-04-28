@@ -128,8 +128,8 @@
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
-	
 	https://www.coursera.org/promo/coursera-birthday-2021?ranMID=40328&ranEAID=vbJlOdbtkok&ranSiteID=vbJlOdbtkok-4HmQvIKEcfqy62Fm6kOhWA&siteID=vbJlOdbtkok-4HmQvIKEcfqy62Fm6kOhWA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vbJlOdbtkok
+	https://mai.moscow/pages/viewpage.action?pageId=37879911
 	
 [Tests]
 	https://www.learnqa.ru/gittest
@@ -139,6 +139,8 @@
 	https://ru.hexlet.io/courses/free
 	https://www.specialist.ru/test/891
 	https://mnorin.com/test-na-znanie-linux-uroven-1.html   -   LPIC
+	
+	https://vc.ru/ask/90344-voprosy-na-sobesedovanii-devopsa?comments
 	
 [Clouds]
 	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
