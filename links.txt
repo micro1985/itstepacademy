@@ -125,6 +125,9 @@
 	https://sgit.rsreu.ru/g643_volkov.k/kpo
 	https://kaek.readthedocs.io/ru/latest/project/gitlab_install/
 	
+[ELK]
+	https://phoenixnap.com/kb/how-to-install-elk-stack-on-ubuntu
+	
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
 	https://www.digitalocean.com/community/meetup_kits/automating-server-setup-with-ansible-a-digitalocean-workshop-kit-ru
