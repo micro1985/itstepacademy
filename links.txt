@@ -128,7 +128,22 @@
 [ELK]
 	https://phoenixnap.com/kb/how-to-install-elk-stack-on-ubuntu
 	
+[Docker]
+	https://www.youtube.com/watch?v=QF4ZF857m44
 	
+[Go]
+	https://www.classcentral.com/course/golang-webservices-1-10072
+	https://ru.coursera.org/learn/golang-webservices-1
+	https://sefus.ru/little-go-book/
+	https://www.youtube.com/watch?v=9Pk7xAT_aCU
+	https://www.youtube.com/watch?v=HuJXoJ2qRcM
+	https://www.youtube.com/watch?v=k27Oga3Wmxs
+	https://habr.com/ru/company/rebrainme/blog/544202/
+	https://proglib.io/p/dorozhnaya-karta-inzhenera-devops-2020-10-31
+	
+	https://www.youtube.com/watch?v=RlccXUx4LVw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=48
+	https://developer.mozilla.org/ru/docs/Web/HTTP
+	https://itproger.com/course/golang
 	
 [Labs]	
 	https://xn--80aqobguv5e.xn--p1ai/%D0%BE%D0%B8%D0%B1/lr5.html#
@@ -157,11 +172,14 @@
 	
 	https://docs.google.com/forms/d/e/1FAIpQLSf0pHtOyOqWLzYz9rM4zFoNK7HOmDhiOHIn93UxtIX6J6Gmmg/viewform
 	
-
-
-[Other]
+[Workshops]
 	https://www.youtube.com/watch?v=R58OuSts948
 	https://www.youtube.com/watch?v=BPfBKs8tSoQ&list=PLGQiJX6wM-zzbcvbr3t5saCc7U8WO90iO
 	https://www.youtube.com/watch?v=To82Gq3gk6o&list=PLGQiJX6wM-zzEcA_0Wn3SIL8MyammjqSH&index=3
 	https://www.youtube.com/watch?v=Wo2TwPi3cNs&list=PLGQiJX6wM-zzcPye1y7gpyJO0uH7NMNP7
+	
+	
+[Other]
+	https://www.youtube.com/watch?v=SEvR78OhGtw
+	
 	
