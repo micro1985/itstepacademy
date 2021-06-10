@@ -131,6 +131,12 @@
 [Docker]
 	https://www.youtube.com/watch?v=QF4ZF857m44
 	
+	https://habr.com/ru/company/microsoft/blog/339214/
+	https://rohanzi.gitlab.io/balberin-clouds/project/composenetworking/
+	https://docs.microsoft.com/ru-ru/visualstudio/docker/tutorials/docker-tutorial
+	
+	https://labs.play-with-docker.com/
+	
 [Go]
 	https://www.classcentral.com/course/golang-webservices-1-10072
 	https://ru.coursera.org/learn/golang-webservices-1
