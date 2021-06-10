@@ -159,6 +159,10 @@
 	
 	https://www.dmosk.ru/miniinstruktions.php?mini=ansible-roles-example
 	
+	http://www.cs.vsu.ru/~svv/swe/lab12se.pdf
+	https://github.com/nxexox/docker_lessons
+	https://kodaktor.ru/moodle-dump-compose.pdf
+	
 [Tests]
 	https://www.learnqa.ru/gittest
 	https://testserver.pro/run/test/administrirovaniye_Linux/
