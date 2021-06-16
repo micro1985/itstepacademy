@@ -136,6 +136,15 @@
 	https://docs.microsoft.com/ru-ru/visualstudio/docker/tutorials/docker-tutorial
 	
 	https://labs.play-with-docker.com/
+	https://training.play-with-docker.com/
+	https://training.play-with-docker.com/alacart/
+	https://prosddc.ru/wp-content/uploads/2020/04/Kubernetes-Overview-101.pdf
+	https://www.katacoda.com/courses/kubernetes
+	http://onreader.mdl.ru/KubernetesServerlessApplications/content/Ch01.html
+	
+[Kubernetes]
+	https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
+	https://training.play-with-kubernetes.com/kubernetes-workshop/
 	
 [Go]
 	https://www.classcentral.com/course/golang-webservices-1-10072
@@ -162,6 +171,8 @@
 	http://www.cs.vsu.ru/~svv/swe/lab12se.pdf
 	https://github.com/nxexox/docker_lessons
 	https://kodaktor.ru/moodle-dump-compose.pdf
+	
+	https://rotoro-cloud.github.io/
 	
 [Tests]
 	https://www.learnqa.ru/gittest
