@@ -138,11 +138,15 @@
 	https://labs.play-with-docker.com/
 	https://training.play-with-docker.com/
 	https://training.play-with-docker.com/alacart/
-	https://prosddc.ru/wp-content/uploads/2020/04/Kubernetes-Overview-101.pdf
 	https://www.katacoda.com/courses/kubernetes
 	http://onreader.mdl.ru/KubernetesServerlessApplications/content/Ch01.html
 	
+	[Registry]
+		https://habr.com/ru/post/320884/
+		https://www.dmosk.ru/miniinstruktions.php?mini=docker-local-repo
+	
 [Kubernetes]
+	https://prosddc.ru/wp-content/uploads/2020/04/Kubernetes-Overview-101.pdf
 	https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 	https://training.play-with-kubernetes.com/kubernetes-workshop/
 	
