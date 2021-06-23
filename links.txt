@@ -116,6 +116,13 @@
 	https://coderlessons.com/articles/veb-razrabotka-articles/nastroika-nepreryvnoi-integratsii-i-nepreryvnogo-razvertyvaniia-s-jenkins
 	https://www.8host.com/blog/nastrojka-nepreryvnoj-integracii-v-jenkins-v-ubuntu-16-04/
 	
+	https://habr.com/ru/post/481466/
+	https://medium.com/the-devops-ship/ci-cd-pipeline-using-jenkins-and-git-both-running-in-docker-containers-deployed-using-docker-6825fe81b738
+	https://sagarsonwane230797.medium.com/automating-your-ci-cd-pipeline-using-git-jenkins-and-docker-ad4cd45a813
+	https://cdn-4.code-maze.com/ci-jenkins-docker/
+	https://www.linkedin.com/pulse/cicd-pipeline-integrate-git-github-jenkins-docker-gaurav-malik
+	https://www.linkedin.com/pulse/git-jenkins-docker-integration-malepati-yogesh-kumar?articleId=6664161622346600450
+	
 [GitLab]	
 	https://docs.gitlab.com/ee/university/#1-gitlab-beginner
 	https://about.gitlab.com/training/
@@ -149,6 +156,18 @@
 	https://prosddc.ru/wp-content/uploads/2020/04/Kubernetes-Overview-101.pdf
 	https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 	https://training.play-with-kubernetes.com/kubernetes-workshop/
+	
+	https://medium.com/southbridge/core-kubernetes-jazz-improv-over-orchestration-65685b8fcf1
+	https://ipsoftware.ru/posts-cloud/k8s-cluster-setup/
+	https://ipsoftware.ru/posts-cloud/k8s-quickstart/
+	https://ru.alxschwarz.com/posts/kubernetes-concepts-i/
+	https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/
+	
+	https://kind.sigs.k8s.io/docs/user/quick-start/
+	
+	https://itsecforu.ru/2019/12/09/%E2%98%B8%EF%B8%8F-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5-%D0%BF%D0%BE-ingress-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8/
+	https://cloud.croc.ru/blog/byt-v-teme/kubernetes-ispolzovanie-ingress/
+	https://habr.com/ru/company/ruvds/blog/442646/
 	
 [Go]
 	https://www.classcentral.com/course/golang-webservices-1-10072
