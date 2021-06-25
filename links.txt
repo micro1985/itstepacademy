@@ -123,6 +123,10 @@
 	https://www.linkedin.com/pulse/cicd-pipeline-integrate-git-github-jenkins-docker-gaurav-malik
 	https://www.linkedin.com/pulse/git-jenkins-docker-integration-malepati-yogesh-kumar?articleId=6664161622346600450
 	
+	https://www.youtube.com/watch?v=dV8l-pvPV3w
+	https://www.youtube.com/watch?v=0D_wKERZ2zo
+	https://www.youtube.com/watch?v=7SM8GLArTDY&list=PLmxB7JSpraiew9igtD89o33AaniUrmUzm
+	
 [GitLab]	
 	https://docs.gitlab.com/ee/university/#1-gitlab-beginner
 	https://about.gitlab.com/training/
