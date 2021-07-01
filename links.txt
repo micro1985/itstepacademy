@@ -201,6 +201,10 @@
 	
 	https://rotoro-cloud.github.io/
 	
+	[Azure]
+		https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/
+		https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+	
 [Tests]
 	https://www.learnqa.ru/gittest
 	https://testserver.pro/run/test/administrirovaniye_Linux/
