@@ -223,8 +223,15 @@
 	https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=62496EC4657155AB37A1
 	https://docs.google.com/forms/d/e/1FAIpQLSf0pHtOyOqWLzYz9rM4zFoNK7HOmDhiOHIn93UxtIX6J6Gmmg/viewform
 	
+	https://tproger.ru/translations/aws-in-plain-russian/
+	
 	[Azure]
 		https://docs.microsoft.com/ru-ru/learn/certifications/exams/az-900
+	
+	[Google]
+	
+	[AWS]
+		https://aws.amazon.com/ru/getting-started/hands-on/?awsf.getting-started-content-type=content-type%23hands-on&?e=gs2020&p=gsrc&awsf.getting-started-category=*all&awsf.getting-started-level=level%23100
 	
 [Workshops]
 	https://www.youtube.com/watch?v=R58OuSts948
