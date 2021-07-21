@@ -239,6 +239,13 @@
 	[AWS]
 		https://aws.amazon.com/ru/getting-started/hands-on/?awsf.getting-started-content-type=content-type%23hands-on&?e=gs2020&p=gsrc&awsf.getting-started-category=*all&awsf.getting-started-level=level%23100
 		https://aws.amazon.com/ru/training/self-paced-labs/
+
+[Terraform]
+	https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8
+	https://www.youtube.com/watch?v=PWNOGs8Jyik
+	https://www.youtube.com/watch?v=PLJygZnFxQA
+	https://www.youtube.com/watch?v=sYoaOw7yGIc
+	https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ
 	
 [Workshops]
 	https://www.youtube.com/watch?v=R58OuSts948
