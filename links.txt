@@ -241,11 +241,25 @@
 		https://aws.amazon.com/ru/training/self-paced-labs/
 
 [Terraform]
-	https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8
-	https://www.youtube.com/watch?v=PWNOGs8Jyik
-	https://www.youtube.com/watch?v=PLJygZnFxQA
-	https://www.youtube.com/watch?v=sYoaOw7yGIc
-	https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ
+	[Azure]
+		https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8
+		https://www.youtube.com/watch?v=PWNOGs8Jyik
+		https://www.youtube.com/watch?v=PLJygZnFxQA
+		https://www.youtube.com/watch?v=sYoaOw7yGIc
+		https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ
+		
+		https://gmusumeci.medium.com/how-to-find-azure-linux-vm-images-for-terraform-or-packer-deployments-24e8e0ac68a
+	
+	[GCP]
+		https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/getting_started
+		https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance
+		https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
+		https://cloud.google.com/docs/terraform
+		https://learn.hashicorp.com/tutorials/terraform/google-cloud-platform-build
+		https://github.com/GoogleCloudPlatform/terraform-google-examples#example-lb
+		https://blog.avenuecode.com/how-to-use-terraform-to-create-a-virtual-machine-in-google-cloud-platform
+		https://levelup.gitconnected.com/deploy-ci-cd-pipeline-on-gcp-using-terraform-364e533dd465
+		https://www.middlewareinventory.com/blog/create-linux-vm-in-gcp-with-terraform-remote-exec/
 	
 [Workshops]
 	https://www.youtube.com/watch?v=R58OuSts948
