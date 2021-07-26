@@ -241,13 +241,13 @@
 		https://aws.amazon.com/ru/training/self-paced-labs/
 
 [Terraform]
-	[Azure]
-		https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8
-		https://www.youtube.com/watch?v=PWNOGs8Jyik
-		https://www.youtube.com/watch?v=PLJygZnFxQA
-		https://www.youtube.com/watch?v=sYoaOw7yGIc
-		https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ
+	https://www.youtube.com/playlist?list=PLg5SS_4L6LYujWDTYb-Zbofdl44Jxb2l8
+	https://www.youtube.com/watch?v=PWNOGs8Jyik
+	https://www.youtube.com/watch?v=PLJygZnFxQA
+	https://www.youtube.com/watch?v=sYoaOw7yGIc
+	https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ
 		
+	[Azure]
 		https://gmusumeci.medium.com/how-to-find-azure-linux-vm-images-for-terraform-or-packer-deployments-24e8e0ac68a
 	
 	[GCP]
